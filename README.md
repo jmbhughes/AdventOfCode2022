@@ -1,2 +1,2 @@
 # AdventOfCode2022
-my Advent of Code 2022 work
+This year I plan to do the [Advent of Code](https://adventofcode.com/2022/) in Go as a learning exercise. 
