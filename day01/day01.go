@@ -27,7 +27,7 @@ func Part2() {
 }
 
 func ReadFile() []string {
-	filePath := "day1_input.txt"
+	filePath := "day01_input.txt"
 	readFile, err := os.Open(filePath)
 
 	if err != nil {
